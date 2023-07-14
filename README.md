@@ -23,11 +23,13 @@ test2.in
 
 test2.expect
 
+
 in suite file (suite.txt):
 
 test
 
 test2
+
 
 executable:
 
