@@ -9,7 +9,6 @@ Make sure all tests files and runSuite are in the directory of the executable an
 
 ./runSuite.sh suitefile ./executable
 
-
 For example:
 
 test files:
